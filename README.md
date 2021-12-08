@@ -20,9 +20,6 @@ Created tables and joined different tables regarding my neccessity to analysis i
 - Created table that shows mentorship eligibility, which are poeple born in 1965. 
 ![](https://user-images.githubusercontent.com/64121596/145277101-2efefd6f-33d6-4e86-a9e0-b25d5fa6b8fe.png)
 ## Summary
-### Questions 
-1.
-2.
 ## Tables or queries
-1.
-2.
+1. By joining employees, department, and salaries tables together, we could analyze people's salaries and its deparments
+2. By joining employees and department employees tables together and filter dates, we could analyze new hired people's insight in the company since there are so many people retiring. 
